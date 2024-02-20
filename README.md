@@ -9,15 +9,15 @@
 2. Password Generator;
 3. Hang Man Game;
 4. File Splitter;
-5. ToDo List Generator and Editor;
+5. TODO List Generator and Editor;
 
 ---
 
 <h3 align="left">Installation:</h3>
 
-1. Clone the current repositoy!
-2. Change the current directory to the selected project folder..
-3. type command: ```cargo r```.
+1. Clone the current repositoy! Now you have all the projects avalable!
+2. Change the current directory to the selected project folder via command: ```cd .\PROJECT_NAME```
+3. Type command: ```cargo r``` to run the current project.
 
 
 # Evaluator of Mathematical Expressions
@@ -112,6 +112,18 @@ The application must be also be able to receive the max size for a chunk at cmdl
 </br>
 ```./splitter unsplit a.zip```</br>
 ```# The app will seach all the a.zip.part*.split files and put them togheter.```</br>
+
+# TODO List Generator and Editor (partial implementation)
+
+<h3 align="left">How does it work? -> Here we have the project requirement:</h3>
+
+The humble todo list has become an unofficial first project when starting out with a new programming language. You can choose to use a CLI with clap, or make it interactive using the crates listed below. You can even do both!
+
+The todo list minimal feature set includes:
+- Add, remove, edit todos
+- Mark todos as "done"
+- Save and load todos
+(source: https://zerotomastery.io/blog/rust-practice-projects/)
 
 ---
 - ⚡ Fun fact **These are my first projects made using Rust language**
