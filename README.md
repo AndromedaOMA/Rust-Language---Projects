@@ -19,7 +19,6 @@
 2. Change the current directory to the selected project folder..
 3. type command: ```cargo r```.
 
----
 
 # Evaluator of Mathematical Expressions
 
@@ -75,7 +74,27 @@ Depending on a parameter given at the command line, the generated password will 
 ```./pass_gen``` </br>
 ```./pass_gen --dict dict.txt```
 
+# Hang Man Game
+
+<h3 align="left">How does it work? -> Here we have the project requirement:</h3>
+
+Write an application where the user has to guess a specific word. The words will be read from a dictionary file and will belong to a certain category.
+
+Upon running the application, the user chooses a category, and a random word from the selected category will be chosen. The user can guess one letter at a time. If they guess a letter correctly, the positions of that letter in the word will be displayed. The user is allowed to make a certain number of incorrect letter guesses (depending on the length of the word). During the game, the remaining number of attempts will be displayed.
+
+In the end, the word and the number of unsuccessful attempts will be shown. Words will be saved in specific files for their respective categories. Additionally, scores will be recorded (in a separate file).
+
+---
+
+<h5>Example input:</h5>
+
+```sport```</br>
+
+<h5>Example output:</h5>
+
+```Word: football```</br>
+```Incorrect guesses: 2```
+
 ---
 - ⚡ Fun fact **These are my first projects made using Rust language**
-  
 ---
