@@ -40,28 +40,23 @@
 <h3 align="left">Structure:</h3>
 
 - Here we have the menu:
-
-![image](https://user-images.githubusercontent.com/116078879/217877088-046128fc-eca1-41d1-b920-bce3392b065d.png)
+![image](https://github.com/AndromedaOMA/Rust-Language---Projects/assets/116078879/201c45a7-3597-4052-bf4d-0767b92e7044)
 
 <h3 align="left">Here are some examples:</h3>
 
 - The first one:
-
-![image](https://user-images.githubusercontent.com/116078879/217894615-35bacbfe-ae04-46a4-b98b-194367691098.png)
+![image](https://github.com/AndromedaOMA/Rust-Language---Projects/assets/116078879/d2fc8d9e-1714-4dc6-99cc-422bb4eb5083)
 
 - The second one:
-
-![image](https://user-images.githubusercontent.com/116078879/217878460-41e78909-6818-45d9-9ae5-b375bc46f483.png)
+  
+![image](https://github.com/AndromedaOMA/Rust-Language---Projects/assets/116078879/e9c0dc0c-ced3-428e-8343-d7f7f3a845a2)
 
 - The third one:
 
-![image](https://user-images.githubusercontent.com/116078879/217895732-072fcece-fa06-49e2-977b-e267aec044e9.png)
-
-- The fourth one:
-
-![image](https://user-images.githubusercontent.com/116078879/217884693-6c574e77-2cb8-412a-a861-d4e47da27cbf.png)
+![image](https://github.com/AndromedaOMA/Rust-Language---Projects/assets/116078879/d6de001a-11bf-44eb-abcb-e5280049c69a)
 
 ---
 
 - ⚡ Fun fact **These are my first projects made using Rust language**
+  
 ---
