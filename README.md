@@ -57,6 +57,25 @@
 
 ---
 
+# Password Generator
+
+<h3 align="left">How does it work? -> Here we have the project requirement:</h3>
+
+Write an application that generates and displays on the screen a string representing a password that meets the following conditions:
+
+- It will have a length between 12 and 18 characters.
+- It will start with an uppercase letter.
+- It will contain alphanumeric characters and at least one symbol from the set ("!", "?", "#", "@").
+  
+Depending on a parameter given at the command line, the generated password will either be composed of random characters that satisfy the above conditions or be constructed from words in a dictionary saved on disk in a .txt file.
+
+---
+<h5>Example input:</h5>
+
+```./pass_gen``` </br>
+```./pass_gen --dict dict.txt```
+
+---
 - ⚡ Fun fact **These are my first projects made using Rust language**
   
 ---
