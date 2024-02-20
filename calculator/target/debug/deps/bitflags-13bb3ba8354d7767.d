@@ -1,0 +1,11 @@
+C:\Users\mariu\OneDrive\Desktop\Rust_Projects\calculator\target\debug\deps\libbitflags-13bb3ba8354d7767.rmeta: C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\lib.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\iter.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\parser.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\traits.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\public.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\internal.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\external.rs
+
+C:\Users\mariu\OneDrive\Desktop\Rust_Projects\calculator\target\debug\deps\bitflags-13bb3ba8354d7767.d: C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\lib.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\iter.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\parser.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\traits.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\public.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\internal.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\external.rs
+
+C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\lib.rs:
+C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\iter.rs:
+C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\parser.rs:
+C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\traits.rs:
+C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\public.rs:
+C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\internal.rs:
+C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.4.1\src\external.rs:

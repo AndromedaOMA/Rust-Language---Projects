@@ -1,0 +1,10 @@
+C:\Users\mariu\OneDrive\Desktop\Rust_Projects\calculator\target\debug\deps\libi_slint_common-6322eeacea7d288a.rmeta: C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\lib.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\builtin_structs.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\enums.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\key_codes.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\sharedfontdb.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\README.md
+
+C:\Users\mariu\OneDrive\Desktop\Rust_Projects\calculator\target\debug\deps\i_slint_common-6322eeacea7d288a.d: C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\lib.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\builtin_structs.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\enums.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\key_codes.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\sharedfontdb.rs C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\README.md
+
+C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\lib.rs:
+C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\builtin_structs.rs:
+C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\enums.rs:
+C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\key_codes.rs:
+C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\sharedfontdb.rs:
+C:\Users\mariu\.cargo\registry\src\index.crates.io-6f17d22bba15001f\i-slint-common-1.3.2\README.md:

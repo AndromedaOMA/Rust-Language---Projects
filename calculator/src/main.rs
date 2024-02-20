@@ -115,7 +115,7 @@ slint::slint! {
                 input := LineEdit{
                     horizontal-alignment: center;
                     font-size: 25px;
-                    placeholder-text:"yay";
+                    placeholder-text:"What are you waiting for?";
                     height: 40px;
                 }
             }

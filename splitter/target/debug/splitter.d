@@ -1,1 +1,1 @@
-D:\FACULTATE\Cursuri\ an\ II\Sem\ I\Rust\Laboratories\Projects\splitter\target\debug\splitter.exe: D:\FACULTATE\Cursuri\ an\ II\Sem\ I\Rust\Laboratories\Projects\splitter\src\main.rs
+C:\Users\mariu\OneDrive\Desktop\Rust_Projects\splitter\target\debug\splitter.exe: C:\Users\mariu\OneDrive\Desktop\Rust_Projects\splitter\src\main.rs

@@ -1,1 +1,1 @@
-D:\Windows_Folders\FACULTATE\Cursuri\ an\ II\Sem\ I\Rust\Laboratories\Projects\calculator\target\debug\calculator.exe: D:\Windows_Folders\FACULTATE\Cursuri\ an\ II\Sem\ I\Rust\Laboratories\Projects\calculator\src\main.rs
+C:\Users\mariu\OneDrive\Desktop\Rust_Projects\calculator\target\debug\calculator.exe: C:\Users\mariu\OneDrive\Desktop\Rust_Projects\calculator\src\main.rs
