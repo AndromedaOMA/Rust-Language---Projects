@@ -54,6 +54,21 @@
 
 ![image](https://github.com/AndromedaOMA/Rust-Language---Projects/assets/116078879/d6de001a-11bf-44eb-abcb-e5280049c69a)
 
+
+<h3 align="left">The logic behind the code:</h3>
+  Solving the problem consists in applying the conversion from fixed arithmetic expression to its postfixed expression, then we evaluated it using a stack.
+  <h5>Example:</h5>
+  Consider the expression: exp = “2 3 1 * + 9 -“:</br>
+    -> Scan 2, it’s a number, So push it into stack. Stack contains ‘2’.</br>
+    -> Scan 3, again a number, push it to stack, stack now contains ‘2 3’ (from bottom to top) </br>
+    -> Scan 1, again a number, push it to stack, stack now contains ‘2 3 1’ </br>
+    -> Scan *, it’s an operator. Pop two operands from stack, apply the * operator on operands. We get 3*1 which results in 3. We push the result 3 to stack. The stack now becomes ‘2 3’.</br>
+    -> Scan +, it’s an operator. Pop two operands from stack, apply the + operator on operands. We get 3 + 2 which results in 5. We push the result 5 to stack. The stack now becomes ‘5’.</br>
+    -> Scan 9, it’s a number. So we push it to the stack. The stack now becomes ‘5 9’.</br>
+    -> Scan -, it’s an operator, pop two operands from stack, apply the – operator on operands, we get 5 – 9 which results in -4. We push the result -4 to the stack. The stack now becomes ‘-4’.</br>
+    -> There are no more elements to scan, we return the top element from the stack (which is the only element left in a stack).</br>
+    <h6>So the result becomes -4.</h6>
+          
 ---
 
 # Password Generator
