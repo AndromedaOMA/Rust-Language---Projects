@@ -7,9 +7,9 @@
 
 1. Evaluator of Mathematical Expressions;
 2. Password Generator;
-3. ToDo List Generator and Editor;
-4. Hang Man Game;
-5. File Splitter;
+3. Hang Man Game;
+4. File Splitter;
+5. ToDo List Generator and Editor;
 
 ---
 
@@ -94,6 +94,24 @@ In the end, the word and the number of unsuccessful attempts will be shown. Word
 
 ```Word: football```</br>
 ```Incorrect guesses: 2```
+
+# File Splitter (partial implementation)
+
+<h3 align="left">How does it work? -> Here we have the project requirement:</h3>
+
+Make an application can receive big files and split them in several smaller files. This is useful for sending a big file over a channel that only allows a small chunk of data to be sent at a time. The application must be also be able to put the original file together given all the small files.
+
+The application must be also be able to receive the max size for a chunk at cmdline. Known size suffixes: b, kb, mb, gb. No suffix means bytes
+
+---
+
+<h5>Example input:</h5>
+
+```./splitter split a.zip -s 1M```</br>
+```# Will result in the tool writing a.zip.part0001.split, a.zip.part0002.split, etc. all with size of 1mb except the last one```</br>
+</br>
+```./splitter unsplit a.zip```</br>
+```# The app will seach all the a.zip.part*.split files and put them togheter.```</br>
 
 ---
 - ⚡ Fun fact **These are my first projects made using Rust language**
